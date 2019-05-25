@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 1: 5/22/19
+
+**Today's Progress**: Got through the first part of authentication with Grider Fullstack React course.
+
+**Thoughts:** Authentication is a fairly complex subject, but the flow seems really similar in a lot of ways to how
+authentication worked with Ruby/Rails.  
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+_________________________________________________________________
+
+
 ### Day 0: 5/23/19
 
 **Today's Progress**: Started Grider Fullstack React course.
