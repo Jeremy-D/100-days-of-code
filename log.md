@@ -2,6 +2,16 @@
 
 ### Day 5: 5/28/19
 
+**Today's Progress**: Got my hour in today! It felt so short but that's all of the time I had today. Got the stripe API keys working with the server side/front end of the emaily app.
+
+**Thoughts:** Programing and writing about it feels good! Tomorrow I want to post on twitter and do more of the 100 days challenge. I'm definitely going to see if I can make it all the way through June.
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+### Day 5 (recap): 5/28/19
+
 **Today's Progress**: Got through a fair amount of the fullstack react course. Added mongoDB to the project. Got the front end and back end playing together nicely. Started writing some react finally.
 
 **Thoughts:** I'm interested to learn why mongoDB is so popular with modern javascript. I've heard it's faster with nosql data but I feel like it would be just as good in most cases to just use a sql data base. 
@@ -11,6 +21,7 @@ Either way the project is currently using two servers for the project but not co
 I had to do a bit of review when we covered some of the redux stuff but the concepts aren't that difficult right now. We will see how I do with redux when I have to use it in the wild though. 
 
 **Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
 [project repo](https://github.com/Jeremy-D/emaily-MERN)
 
 _________________________________________________________________
