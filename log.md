@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 5: 5/29/19
+
+**Today's Progress**: Made some progess on integrating the Stripe API into the tutorial project
+
+**Thoughts:** It's hard to make too much meaningful progress in an hour, but I think getting that hour minimum every day(in addition to the days when I'm able to code for longer periods) really adds up in the long run!
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+_________________________________________________________________
+
 ### Day 5: 5/28/19
 
 **Today's Progress**: Got my hour in today! It felt so short but that's all of the time I had today. Got the stripe API keys working with the server side/front end of the emaily app.
@@ -9,6 +21,8 @@
 **Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
 
 [project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+_________________________________________________________________
 
 ### Day 5 (recap): 5/28/19
 
