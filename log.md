@@ -1,10 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 5: 5/29/19
+### Day 7: 5/30/19
+
+**Today's Progress**: Continuing to work on the fullstack react course.
+
+**Thoughts:** The course I'm taking is good but I feel like I need to read through the documentation on some of the libraries we're using. It feels like I have a surface level knowledge of mongo/mongoose, express, passport etc but I'd like to know how they work in a more in depth way.
+
+Didn't quite get an hour in today, but I'm doing a lot of database work at work so I'll cut myself some slack.
+
+Can't wait to have more time this weekend to program more!
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+_________________________________________________________________
+
+### Day 6: 5/29/19
 
 **Today's Progress**: Made some progess on integrating the Stripe API into the tutorial project
 
 **Thoughts:** It's hard to make too much meaningful progress in an hour, but I think getting that hour minimum every day(in addition to the days when I'm able to code for longer periods) really adds up in the long run!
+
+I need to find some time to work on other stuff in addition to the tutorial project.
 
 **Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
 
