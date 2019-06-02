@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+
+### Day 9: 06/01/19
+
+**Today's Progress**: Got a lot done on the fullstack react course! Finished sendgrid and stripe payment integrations.
+
+**Thoughts:** It's kind of a pain going through this whole course when I just want to get started on my next project, but I think it's worth it in the long run. It's definitely cool to see the differences between rails/express and how things are done differently in a JS environment. I think I'm going to use PostgreSQL on my project. Still not sure why mongo is so popular. 
+
+PS going to add topics and time subtitle to journal entries so I can do some analytics on my 100 days of code studying. Hopefully it's not too difficult to parse an md file but I'll look that up later.
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+**topics** payments, email, express
+**hours** 4.5
+
+_________________________________________________________________
+
+### Day 8: 5/31/19
+
+**Today's Progress**: Didn't program today but did some pretty good work on my data analytics stuff at work
+
+**Thoughts:** It's hard to put in extra work on Fridays
+
+
+_________________________________________________________________
+
 ### Day 7: 5/30/19
 
 **Today's Progress**: Continuing to work on the fullstack react course.
