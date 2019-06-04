@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log
 
+### Day 11: 06/03/19
+
+**Today's Progress**: Worked on helloGov app
+
+**Thoughts:** Studying the MERN stack makes it easier to approach other apps built in js environments, but I still need to learn a little bit more about express/mongo. The helloGov app is built on angularJS(angular 1) and once I understand the backend a little better I think I'll actually be able to contribute more to the project.
+
+Also it's really hard to work on projects at meetups.
+
+**Link to work:** [helloGov production site](https://hellogov.squarespace.com/)
+
+[helloGov repo](https://github.com/helloGov/webapp)
+
+**topics** mongoDB, express, angularJS, node
+**hours** 1.5
+
+_________________________________________________________________
+
+### Day 10: 06/02/19
+
+**Today's Progress**: Finished the redux-form section of fullstack react course
+
+**Thoughts:** Redux was confusing at first but not too bad once you get used to it. I think I should read through the redux docs/code.
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+**topics** redux, express
+**hours** 4.5
+
+_________________________________________________________________
 
 ### Day 9: 06/01/19
 
