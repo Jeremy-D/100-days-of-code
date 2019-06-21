@@ -1,5 +1,243 @@
 # 100 Days Of Code - Log
 
+
+### Day 26: 06/20/19
+
+**Today's Progress**: Missed a day
+**Thoughts:** I was driving all day so I feel like that's a good excuse.
+**topics** none
+**hours** 0
+
+_________________________________________________________________
+### Day 25: 06/19/19
+
+**Today's Progress**: Worked on an interview cake problem
+**Thoughts:** I worked on the Shuffle an Array in place problem. It was kind of hard to think clearly so I wasn't able to solve it with code although I think my solution was correct. I need to go back and implement it and see how I can implement it better.
+
+I need to keep an algos directory somewhere so I can look at it for reference.
+
+**topics** algos
+**hours** 1.5
+
+_________________________________________________________________
+
+### Day 24: 06/18/19
+
+**Today's Progress**: Continue Schema design and app design for Map Notes app.
+**Thoughts:** I'm remembering more about SQL and tables that can connect other tables. I still need to figure out the best way to add permissions to different maps in my design.
+
+I didn't write any code today but I drew out some of the business logic for the app in my notebook and it feels good to have a better understanding of how all of these front end/back end technologies work together. 
+
+I need to tweet more for the 100 days of code challenge
+
+**topics** SQL, SchemaDesign, axios, Redux 
+**hours** 2
+
+_________________________________________________________________
+ 
+### Day 23: 06/17/19
+
+**Today's Progress**: Start Schema design for Map Notes app.
+**Thoughts:** My SQL/Schema design skills are a little rusty. I couldn't remember how to create associations between tables.
+
+**topics** SQL
+**hours** 1
+
+_________________________________________________________________
+ 
+### Day 22: 06/16/19
+
+**Today's Progress**: Learn about React context API. Finish react-redux course(for now)
+**Thoughts:** The context API is fine but it still seems like redux is the way to go for complex React projects.
+
+
+**topics** React, ContextAPI
+**hours** 2.5
+
+_________________________________________________________________
+
+### Day 21: 06/15/19
+
+**Today's Progress**: Work on modal for React app
+**Thoughts:** Use url based selection(not a selection reducer) when possible. In react we do this with BrowserRouter. 
+
+A PUT req replaces all of the properties of a record whereas a PATCH req updates some properties of a record. Make sure to use the right one in your CRUD apps!
+
+Use portals (React.createPortal) for modals. This changes the parent element of the component so that a modal is possible. Use React.Fragment and event.stopPropagation() with modals.
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+**topics** React, Redux, ReduxForm
+**hours** 3.5
+
+_________________________________________________________________
+
+<!-- missed a few days -->
+
+###missed a couple days
+
+
+_________________________________________________________________
+
+
+### Day 20: 06/12/19
+
+**Today's Progress**: Work on modal for React app
+**Thoughts:** 
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+**topics** React, Redux, ReduxForm
+**hours** 1.5
+
+_________________________________________________________________
+### Day 20: 06/12/19
+
+**Today's Progress**: Work on modal for React app
+**Thoughts:** 
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+**topics** React, Redux, ReduxForm
+**hours** 1.5
+
+_________________________________________________________________
+ 
+### Day 19: 06/11/19
+
+**Today's Progress**: Work on more Redux Form stuff
+**Thoughts:** Programmatic navigation is the word used to describe forced navigation of a user. For example, when a user fills out a form, we use a Router history object to push them back to the home page. 
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+**topics** React, Redux, ReduxForm
+**hours** 1.5
+
+_________________________________________________________________
+ 
+### Day 18: 06/11/19
+
+**Today's Progress**: Work on redux form
+**Thoughts:** Redux form makes life easier because we only have to set up a couple of things(setting input value, onChange function) instead of doing all the redux stuff.
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+**topics** React, Redux
+**hours** 1.5
+
+_________________________________________________________________
+### Day 17: 06/10/19
+
+**Today's Progress**: Get Through more of the grider tutorial.
+**Thoughts:** It's hard to make to much progress in only a couple of hours a day.
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+**topics** React, Redux
+**hours** 4
+
+_________________________________________________________________
+### Day 17: 06/09/19
+
+**Today's Progress**: Make api calls with Redux Thunk
+**Thoughts:** Redux Thunk is a little complicated but understanding it definitely forces you to understand redux better. It also lets you do async api calls which is the fun part anyway.
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+**topics** React, Redux, ReduxThunk
+**hours** 4
+
+_________________________________________________________________
+
+### Day 16: 06/08/19
+
+**Today's Progress**: Begin to implement React front end
+**Thoughts:** I neede to get better at always handling errors and also testing in general. Always use preventDefault() in event handlers. You can use arrow functions to bind event handlers or `this.handleChange = this.handleChange.bind(this)`.
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+**topics** react
+**hours** 4
+
+_________________________________________________________________
+
+
+### Day 15: 06/07/19
+
+**Today's Progress**: Begin to implement React front end
+**Thoughts:** I neede to get better at always handling errors and also testing in general. Always use preventDefault() in event handlers. You can use arrow functions to bind event handlers or `this.handleChange = this.handleChange.bind(this)`.
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+**topics** react
+**hours** 4
+
+_________________________________________________________________
+
+
+### Day 14: 06/06/19
+
+**Today's Progress**: Review react basics and principles. (fullstack react app)
+
+**Thoughts:** React is awesome.
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+**topics** react
+**hours** 1
+
+_________________________________________________________________
+
+### Day 13: 06/05/19
+
+**Today's Progress**: fullstack react
+
+**Thoughts:** Get a better understanding of how data flows between express, axios, redux and react
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+**topics** redux, axios, express
+**hours** 2
+
+_________________________________________________________________
+
+### Day 12: 06/04/19
+
+**Today's Progress**: fullstack react
+
+**Thoughts:** Webhooks are still kind of confusing but I'm getting a better hang of things/
+
+**Link to work:** [Emaily project app](https://calm-forest-48728.herokuapp.com/)
+
+[project repo](https://github.com/Jeremy-D/emaily-MERN)
+
+**topics** mongoDB, express, node
+**hours** 1
+
+_________________________________________________________________
+
 ### Day 11: 06/03/19
 
 **Today's Progress**: Worked on helloGov app
